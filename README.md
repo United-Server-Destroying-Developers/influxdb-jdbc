@@ -49,7 +49,7 @@ These are intentionally documented to match real behavior and avoid surprises:
 The goal is pragmatic interoperability: make InfluxDB easier to inspect and query from JDBC-capable tools, while being explicit about limitations and steadily reducing the biggest integration pain points over time.
 
 ## Updates
-- 2026-31-03: Original project fork created, dependecies updated and README updated to reflect current status and direction.
+- 2026-31-03: Original project fork created, dependencies updated and README updated to reflect current status and direction.
 
 ## Supporting
 If you find this project useful and want to support its development, consider:
